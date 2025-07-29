@@ -116,11 +116,14 @@ D. Alternativa D
 
 1. On Member Join
 2. On Message
+
 ---
 #### On Member Join
 
 <p>O evento on_member_join analisa e monitora o servidor para quando um usuário se juntar ao servidor, o bot dá uma mensagem de boas vindas em um canal específico caso exista esse canal, caso contrário, ele coloca no canal "geral" que é gerado na criação do servidor</p>
+
 ---
+
 #### On Message
 
 <p>O evento on_message faz o seguinte algoritmo:</p>
