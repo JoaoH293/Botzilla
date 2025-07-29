@@ -242,6 +242,7 @@ Esta função já foi explicada em >Adicionar XP
 8. Divisão.
 
 ---
+
 #### Olá
 <p>O comando "!ola" é uma função básica em que o bot responde "Olá @Usuário"</p>
 <p>O comando foi criado com o intuito de testar as funcionalidades do bot
@@ -261,22 +262,29 @@ Esta função já foi explicada em >Adicionar XP
 <p>Caso o usuário demore mais que 10 segundos, o bot encerrará o comando.</p>
 
 ---
+
 #### Soma
 <p>O comando "!soma n1 n2 ..." soma os números, ainda que tenham partes fracionárias, que foram especificados.</p>
 
 ---
+
 #### Subtração
 <p>O comando "!sub n1 n2" subtrai n2 de n1, ainda que n1 e/ou n2 tenham partes fracionárias.</p>
 
 ---
+
 #### Multiplicação
 <p>O comando "!mult n1 n2 n3 ..." multiplica entre si os números especificados.</p>
 
 ---
+
 #### Divisão
 <p>O comando "!div n1 n2" divide n1 por n2 ainda que com parte fracionária.</p>
+
 ---
+
 <p>Agora, temos o evento on ready</p>
+
 ---
 
 #### On ready
